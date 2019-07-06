@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-menu/self-menu.iml" filepath="$PROJECT_DIR$/self-menu/self-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscribe/subscribe.iml" filepath="$PROJECT_DIR$/subscribe/subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unsubscribe/unsubscribe.iml" filepath="$PROJECT_DIR$/unsubscribe/unsubscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin/weixin.iml" filepath="$PROJECT_DIR$/weixin/weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wx_kemao_3.iml" filepath="$PROJECT_DIR$/wx_kemao_3.iml" />
+    </modules>
+  </component>
+</project>
